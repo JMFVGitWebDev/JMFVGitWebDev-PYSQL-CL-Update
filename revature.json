@@ -1,0 +1,15 @@
+{
+  "type": "python",
+  "testFiles": [
+    {
+      "path": "tests/lab_test.py",
+      "testCases": [
+        {
+          "methodName": "test_problem1",
+          "label": "Verify Alexa's last name was updated to Rush",
+          "description": "Runs problem1(), which should update Alexa's lastname to 'Rush', then confirms the full table matches the expected list."
+        }
+      ]
+    }
+  ]
+}
